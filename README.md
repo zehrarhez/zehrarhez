@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi I'm Zehra 👋🏼:
 🎓 I’m currently studying Computer Engineering at Manisa Celal Bayar University<br>🔭 I’m interested in back-end development<br>🌱 I’m currently learning Flutter and improving myself in Python.<br>🌍 I'm based in Turkey<br>✉️ You can contact me at zehrarhezz9@gmail.com
 
 
