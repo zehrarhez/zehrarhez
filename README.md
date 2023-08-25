@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I’m currently studying Computer Engineering at Manisa Celal Bayar University<br>🔭 I’m interested in back-end development<br>🌱 I’m currently learning Machine Learning and improving myself in Python<br>🌍 I'm based in Turkey<br>✉️ You can contact me at zehrarhezz9@gmail.com
+🎓 I’m currently studying Computer Engineering at Manisa Celal Bayar University<br>🔭 I’m interested in back-end development<br>🌱 I’m currently learning Data Science & Machine Learning and improving myself in Python<br>🌍 I'm based in Turkey<br>✉️ You can contact me at zehrarhezz9@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zehra-özeren/) 
