@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I’m currently studying Computer Engineering at Manisa Celal Bayar University<br>🔭 I’m interested in back-end development<br>🌱 I’m currently learning Data Science and Machine Learning.<br>🌍 I'm based in Turkey<br>✉️ You can contact me at zehrarhezz9@gmail.com
+🎓 I’m currently studying Computer Engineering at Manisa Celal Bayar University<br>🔭 I’m interested in Data Science and Machine Learning<br>🌱 I’m currently learning R programming language. <br>🌍 I'm based in Turkey<br>✉️ You can contact me at zehrarhezz9@gmail.com
 
 
 ## 🌐 Socials:
