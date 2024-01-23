@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I’m currently studying Computer Engineering at Manisa Celal Bayar University<br> 🦾 I'm currently working on the Industrial Automation Software.<br>🔭 I’m interested in Data Science and Machine Learning<br>🌱 I’m currently learning R programming language and also Kivy. <br>🌍 I'm based in Turkey<br> 🤖 ![Click to reach my website.](https://victorious-island-02c227f00.4.azurestaticapps.net)<br> ✉️ You can contact me at zehrarhezz9@gmail.com
+🎓 I’m currently studying Computer Engineering at Manisa Celal Bayar University<br> 🦾 I'm currently working on the Industrial Automation Software.<br>🔭 I’m interested in Data Science and Machine Learning<br>🌱 I’m currently learning R programming language and also Kivy. <br>🌍 I'm based in Turkey<br> 🤖 [![Click to reach my website.](https://victorious-island-02c227f00.4.azurestaticapps.net)]<br> ✉️ You can contact me at zehrarhezz9@gmail.com
 
 <p align="center">
   <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="700" height="400" />
