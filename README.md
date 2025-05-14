@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I am a Computer Engineer, graduated from Manisa Celal Bayar University<br> 🦾 I'm currently working on the Industrial Automation Softwares and Transformer-based Models.<br>🔭 I’m interested in Data Science and Machine Learning<br>🌱 I’m currently learning R programming language. <br>🌍 I'm based in Turkey<br> ✉️ You can contact me at zehrarhezz9@gmail.com
+🎓 I am a Computer Engineer, graduated from Manisa Celal Bayar University<br> 🦾 I'm currently working in FinTech area as a project manager.<br>🔭 I’m interested in payment systems and cash registers.<br>🌱 I'm based in Turkey<br> ✉️ You can contact me at zehrarhezz9@gmail.com
 
 <p align="center">
   <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="700" height="400" />
